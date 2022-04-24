@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DonutDasher</string>
+    <string name="titleDonut">Donut Dasher</string>
+    <string name="imgDonut">This is a picture of the donut dasher logo</string>
+    <string name="startOrder">Order Now</string>
+    <string name="titleAddress">Type in your address</string>
+    <string name="address">Type address here</string>
+    <string name="toDonutCreator">Next</string>
+    <string name="titleDonutCreator">Create your donut</string>
+    <string name="donutType">Donut Type</string>
+    <string-array name="txtDonutTypeGroup">
+        <item>Vanilla</item>
+        <item>Chocolate</item>
+        <item>Blueberry</item>
+        <item>Boston Cream</item>
+        <item>Long John</item>
+        <item>Jelly</item>
+        <item>French</item>
+    </string-array>
+    <string name="glazeOption">Glaze</string>
+    <string name="txtIcingOption">Icing</string>
+    <string-array name="txtIcingGroup">
+        <item>Vanilla</item>
+        <item>Chocolate</item>
+        <item>Strawberry</item>
+        <item>Vanilla Marble</item>
+        <item>Chocolate Marble</item>
+        <item>No Icing</item>
+    </string-array>
+    <string name="toppingsOption">Toppings</string>
+    <string name="txtGlazeOption">Glaze Option</string>
+    <string name="radGlaze">Glaze</string>
+    <string name="radNoGlaze">No Glaze</string>
+    <string name="txtToppings">Toppings</string>
+    <string name="checkSprinkles">Sprinkles</string>
+    <string name="checkNuts">Nuts</string>
+    <string name="checkCandy">Candy</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="txtPrice">Price:</string>
+    <string name="txtMusicTitle">Listen to the theme of DonutDasher</string>
+    <string name="btnMusic">Play Main Theme</string>
+</resources>
